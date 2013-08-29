@@ -1,12 +1,4 @@
-Description
-===========
-
-Demo application for the PeepCode screencast on Backbone.js.
-
-USAGE
-=====
-
-We've included a Node.js server, a Ruby server, and a static version that works directly in the browser.
+This included a Node.js server, a Ruby server, and a static version that works directly in the browser.
 
 The Node version is probably the easiest to run if you already have Node.js installed. Run this command in the Terminal (from 0-start or 9-final):
 
