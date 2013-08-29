@@ -13,6 +13,3 @@ Otherwise, try the Ruby version:
     rake server
     
 Or, try the static version. Drag 9-final-no-server/public/index.html to your browser.
-
-If you run into any errors, email peepcode@topfunky.com and we're glad to help you out.
-
