@@ -16,7 +16,7 @@ get "/albums" do
   send_file "public/albums.json"
 end
 
-get "/favicon.ico" do
-  ""
-end
+# get "/favicon.ico" do
+#   ""
+# end
 
